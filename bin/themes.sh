@@ -1,6 +1,7 @@
 themes=(
 	casper
 	lyra
+	journal
 )
 
 for theme in "${themes[@]}"
